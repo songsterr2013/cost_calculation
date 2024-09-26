@@ -10,9 +10,9 @@ import time
 def connect_to_mysql(task, database, start=None, end=None):  # 參數:(工序, 哪一個TABLE?,開始時間跟結束時間*可選)
 
     try:
-        cnx = mysql.connector.connect(host='59.120.87.160',
-                                      user='smb',
-                                      passwd='Csie3621',
+        cnx = mysql.connector.connect(host='',
+                                      user='',
+                                      passwd='',
                                       )
         if cnx.is_connected():
             # check the version of the db
