@@ -5,4 +5,4 @@ two files is needed
 1.-成本表產出設定
 2.-原料標準成本
 
-also need database information to access
+also need database information to access 
